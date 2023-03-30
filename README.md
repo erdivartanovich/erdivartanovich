@@ -5,10 +5,10 @@
 + Software Architect</p>
 
 >## <u>Highligths</u>
->- In November 2018, Granted certificate as:
->	 ☼ [**Top 100 Global** Code Quality Rangking in Javascript ](https://duerank.com/activeAchievement?country=G&id=13470318&lang=JavaScript&max=250000&min=50000)
->	 ☼ [**Top 3 Indonesia** Code Quality Ranking in Javascript](https://duerank.com/activeAchievement?country=ID&id=13470318&lang=JavaScript&max=250000&min=50000)
->	by **[Due Rank](https://duerank.com/mission)**. 
+>- In November 2018, Granted certificate as: <br/>
+>	 ☼ [**Top 100 Global** Code Quality Rangking in Javascript ](https://duerank.com/activeAchievement?country=G&id=13470318&lang=JavaScript&max=250000&min=50000) <br/>
+>	 ☼ [**Top 3 Indonesia** Code Quality Ranking in Javascript](https://duerank.com/activeAchievement?country=ID&id=13470318&lang=JavaScript&max=250000&min=50000) <br/>
+>	by **[Due Rank](https://duerank.com/mission)**. <br/> 
 >	Due Rank is a non Profit Organization for Software Developer Community who perform aggregation and ranking of Good Quality Coding Standard.
 >	
 >	
