@@ -3,3 +3,5 @@
 + IT Manager</p>
 <p style="margin-top: 1px; margin-bottom: 0px">
 + Software Architect</p>
+
+<a href="https://erdivartanovich.github.io/aboutme/">Read More</a>
