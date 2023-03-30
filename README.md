@@ -1,6 +1,6 @@
 <table style="width: 100%; border-collapse: collapse; background-color: [[f3f8ff]]">
 	<tr>
-		<td style="width: 100%; padding-left: 20px; border-color: [[f3f8ff]];  ">
+		<td style="max-width: 100%; white-space:nowrap; padding-left: 20px; border-color: [[f3f8ff]];  ">
 			<div style="margin-bottom: 5px;">
 				<h1 style="margin-bottom: 1px; text-align: center">Erdiansyah</h1>
 				<p style=
@@ -29,7 +29,7 @@
 				</div>
 			</div>
 		</td>
-		<td style="border-color: [[f3f8ff]]; "><img src=
+		<td style="white-space:nowrap; border-color: [[f3f8ff]]; "><img src=
 		"https://lh3.googleusercontent.com/pw/AMWts8DAbb6UGqqe1SbBFBCcQDJyfh2JvUpaabkKj3tYlG8v9fFQiWWletU8DOQj4auGHNkjVINChMFUIHBkEs4R6qB-HYxCk7CvymYx0Vpji_o3xFxvBSv_nJtYVP5IUwc6QWe3V5Cpigw4DfoN2X4hLy4c=w788-h903-no?authuser=0"
 		alt="Erdiansyah Photo" width="130"></td>
 	</tr>
