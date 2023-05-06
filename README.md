@@ -9,6 +9,12 @@
 >	 ☼ [**Top 100 Global** Code Quality Rangking in Javascript ](https://duerank.com/activeAchievement?country=G&id=13470318&lang=JavaScript&max=250000&min=50000) <br/>
 >	 ☼ [**Top 3 Indonesia** Code Quality Ranking in Javascript](https://duerank.com/activeAchievement?country=ID&id=13470318&lang=JavaScript&max=250000&min=50000) <br/>
 >	by **[Due Rank](https://duerank.com/mission)**. <br/> 
+> - In March **2023**, Granted certificate as: <br/> 
+>   ☼ [**Top 100 in Global** - Code Quality Rangking for Golang ](https://duerank.com/activeAchievement?country=G&id=13470318&lang=Go&max=10000&min=5000) <br/> 
+>   ☼ [**Top 1 in Indonesia** - Code Quality Ranking for Golang ](https://duerank.com/activeAchievement?country=ID&id=13470318&lang=Go&max=10000&min=5000) <br/> 
+>	by **[Due Rank](https://duerank.com/mission)**. <br/> 
+
+
 >	Due Rank is a non Profit Organization for Software Developer Community who perform aggregation and ranking of Good Quality Coding Standard.
 >	
 >	
