@@ -4,6 +4,8 @@
 <p style="margin-top: 1px; margin-bottom: 0px">
 + Software Architect</p>
 
+Aboutme: https://erdivartanovich.github.io
+
 >## <u>Highligths</u>
 >- In November 2018, Granted certificate as: <br/>
 >	 ☼ [**Top 100 Global** Code Quality Rangking in Javascript ](https://duerank.com/activeAchievement?country=G&id=13470318&lang=JavaScript&max=250000&min=50000) <br/>
